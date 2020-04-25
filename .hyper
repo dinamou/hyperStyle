@@ -94,7 +94,15 @@ module.exports = {
     hyperBorder: {
         borderColors: ['#fba506', '#06d6a0'],
         borderWidth: '3.5px'
-      }
+    },
+
+    // Hyper Window Size
+    hyperWindowSize: {
+      width: 820,
+      height: 900,
+      startX: 50,
+      startY: 50
+    },
   },
 
   // a list of plugins to fetch and install from npm
